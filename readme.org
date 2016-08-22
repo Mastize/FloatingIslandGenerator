@@ -1,0 +1,2 @@
+* Simple Floating Islands Generator
+Generate floating islands using simple noise, just an example.
